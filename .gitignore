@@ -13,6 +13,7 @@
 .idea/modules.xml
 .idea/usage.statistics.xml
 .idea/checkstyle-idea.xml
+.idea/
 **/*.iml
 docs/**/*.zip
 */docs
